@@ -1,8 +1,8 @@
-## **MVPFusion: Multi-View Perception Network for Multi-Focus Image Fusion**
+## **MVDFusion: Multi-Focus Image Fusion via** **Multi-View Learning** **and Depth-Structure Awareness**
 
-### Submission to the journal Neural Networks
+### Submission to the journal Image and Vision Computing
 
-This repository contains the implementation of MVPFusion, a multi-view perception network for multi-focus image fusion. To evaluate the effectiveness of our method, we compared it with other state-of-the-art methods on three multi-focus image datasets,achieving state-of-the-art results in both subjective visual effects and objective measurement outcomes, while also demonstrating significant advantages in lightweight design and time efficiency. The model weights will be uploaded after the paper is accepted.
+This repository contains the implementation of MVDFusion, a multi-view perception network with depth-structure awareness for multi-focus image fusion. To evaluate the effectiveness of our method, we compared it with other state-of-the-art methods on three multi-focus image datasets,achieving state-of-the-art results in both subjective visual effects and objective measurement outcomes, while also demonstrating significant advantages in lightweight design and time efficiency. The model weights will be uploaded after the paper is accepted.
 
 ### Document
 
